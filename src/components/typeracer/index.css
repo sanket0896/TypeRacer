@@ -1,0 +1,11 @@
+input{
+    margin-top: 2em !important;
+}
+
+.type-mismatch{
+    border: 2px solid red;
+}
+
+.type-mismatch:focus{
+    outline-color: red;
+}
